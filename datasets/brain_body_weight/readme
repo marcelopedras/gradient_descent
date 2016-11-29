@@ -1,0 +1,11 @@
+Dataset utilizado:
+http://people.sc.fsu.edu/~jburkardt/datasets/regression/x01.txt (Acesso em: 25/11/16)
+
+Este dataset (x01.txt) é comporto por 62 linhas e apresentação a relação entre a média do peso do cérebro e o peso do seu corpo para um determinado número de mamíferos. Logo, peso do cérebro é a variável independente e peso do corpo a variável dependente.
+
+Para facilitar o carregamento dos arquivos separou-se os dados em dois arquivos.
+
+brain_weight -> variável independente (x)
+body_weight  -> variável dependente   (y)
+
+
